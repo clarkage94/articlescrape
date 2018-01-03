@@ -1,0 +1,36 @@
+body{  
+    background-image: url("/assets/images/imac.jpg");
+    padding-top: 70px;
+}
+
+.deleteNote {
+	display: inline-block;
+}
+
+.previousNotes {
+    display: inline-block;
+    width: 90%
+}
+
+#scrape {
+    margin: 8px 0px;
+}
+
+.btn.btn-primary {
+  background: #4169E1;
+}
+.btn-success.save {
+  background: #4169E1;
+}
+
+.col-md-12.jumbotron {
+  background-color: #F0F8FF;
+}
+
+.panel-heading {
+  background-color: #708090;
+}
+
+.panel-body {
+  background-color: #F0F8FF;
+}
