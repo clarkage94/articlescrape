@@ -1,5 +1,5 @@
 body{  
-    background-image: url("/assets/images/imac.jpg");
+    background-image: url("/assets/images/wood.jpg");
     padding-top: 70px;
 }
 
@@ -17,14 +17,14 @@ body{
 }
 
 .btn.btn-primary {
-  background: #4169E1;
+  background: black;
 }
 .btn-success.save {
-  background: #4169E1;
+  background: black;
 }
 
 .col-md-12.jumbotron {
-  background-color: #F0F8FF;
+  background-color: #C0C1C5;
 }
 
 .panel-heading {
@@ -32,5 +32,5 @@ body{
 }
 
 .panel-body {
-  background-color: #F0F8FF;
+  background-color: #C0C1C5;
 }
